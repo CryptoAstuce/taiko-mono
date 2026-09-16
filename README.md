@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours pédagogique en français présente Taiko Alethia, le based rollup, les origines L1, les propositions, les clients, le pont et les mécanismes de preuve. Voir [docs/fr/README.md](docs/fr/README.md).
+
 <p align="center">
   <img src="./.github/taiko-icon-blk.svg" width="80" alt="Logo for Taiko" />
 </p>
